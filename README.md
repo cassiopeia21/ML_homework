@@ -9,6 +9,4 @@ Tasks: EDA, separate data to train and test samples, use Logistic Regression on 
 
 #### HW3-spine disorders
 
-Data: 
-
-https://www.kaggle.com/sammy123/lower-back-pain-symptoms-dataset
+Data: https://www.kaggle.com/sammy123/lower-back-pain-symptoms-dataset
