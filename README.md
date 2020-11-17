@@ -6,3 +6,9 @@ Homework for ML in Bioinformatics Institute
 Data : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 Tasks: EDA, separate data to train and test samples, use Logistic Regression on data, estimate precision, recall and F1-score, visualise ROC curve.
+
+#### HW3-spine disorders
+
+Data: 
+
+https://www.kaggle.com/sammy123/lower-back-pain-symptoms-dataset
